@@ -37,6 +37,7 @@ body{
   height: 25vh;
   border-radius: 1rem;
   border: 0;
+  background-repeat: no-repeat;
 }
 
 .button-flex-container button:hover{
